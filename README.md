@@ -1,4 +1,4 @@
 - 👋 Hi, I’m **Tim** (@excii05)
 - 👀 I’m interested in: **coding & tech**
 - 🌱 I’m currently learning: **html, css, js, python & c++**
-- 📫 How to reach me: **Discord: excii or on my [portfolio website](tim.fuhrmann-leo.de)**
+- 📫 How to reach me: **Discord: excii or on my [portfolio website](https://tim.fuhrmann-leo.de/)**
